@@ -1,0 +1,23 @@
+{
+  "repo": "snagit-full",
+  "product": "Snagit Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "screen-capture",
+  "topics": [
+    "snagit-capture",
+    "step-stamp-desk",
+    "scroll-window-windows",
+    "snagit-2026",
+    "how-to-install-snagit",
+    "snagit-desktop-package",
+    "blur-arrow-suite",
+    "grab-library-tools",
+    "trainer-guide-pro",
+    "snagit-pro-edition"
+  ],
+  "site": "toolix.me"
+}
